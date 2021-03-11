@@ -12,7 +12,7 @@ from util import util
 from DFLIMG.DFLJPG import DFLJPG
 import shutil
 
-OUT_RES = 512
+OUT_RES = 640
 
 def get_part_location(lmrks):
     Landmarks = []
